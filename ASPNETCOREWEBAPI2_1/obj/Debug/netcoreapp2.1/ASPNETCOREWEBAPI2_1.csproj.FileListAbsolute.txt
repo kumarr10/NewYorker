@@ -1,0 +1,13 @@
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/bin/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.deps.json
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/bin/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.runtimeconfig.json
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/bin/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.runtimeconfig.dev.json
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/bin/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.dll
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/bin/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.pdb
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.csproj.CoreCompileInputs.cache
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.RazorAssemblyInfo.cache
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.RazorAssemblyInfo.cs
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.AssemblyInfoInputs.cache
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.AssemblyInfo.cs
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.RazorTargetAssemblyInfo.cache
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.dll
+/Users/rahulkumar/Projects/ASPNETCOREWEBAPI2_1/ASPNETCOREWEBAPI2_1/obj/Debug/netcoreapp2.1/ASPNETCOREWEBAPI2_1.pdb
